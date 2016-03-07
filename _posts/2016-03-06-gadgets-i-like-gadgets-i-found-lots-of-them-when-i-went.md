@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T23:01:02.126Z'
-dateModified: '2016-03-06T22:53:17.705Z'
+datePublished: '2016-03-07T02:17:11.704Z'
+dateModified: '2016-03-07T02:17:10.791Z'
 title: "Gadgets. \_I like gadgets. \_I found lots of them when I went looking. \_I probably could've found more but I was afraid to go into the attic! Here's a selection."
 author: []
+sourcePath: _posts/2016-03-06-gadgets-i-like-gadgets-i-found-lots-of-them-when-i-went.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-gadgets-i-like-gadgets-i-found-lots-of-them-when-i-went.md
-published: true
 url: gadgets-i-like-gadgets-i-found-lots-of-them-when-i-went/index.html
 _type: Article
 
@@ -44,7 +44,7 @@ Then there are the keyboards.....wired, wireless, bluetooth, portable, convertib
 
 Here's one of my (award winning) **Blue Room HousePods**.  OK, they're not gadgets as such, but you have to admit that they look cool.  They've a pretty decent sound too.  I'm not sure how many were originally produced, but mine are numbered 001331 and 001332\.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d70df4-7b32-4a8b-8a7a-836a782fa92b.png)
 
-There's a really interesting site detailing their history and inextricable links to **B&W**[here][0].   I use them in combination with my **B&W** 802s.  You should check out the Dadara Baby versions - they're collector's items now.
+There's a really interesting site detailing their history and inextricable links to **B&W **[here][0].   I use them in combination with my **B&W** 802s.  You should check out the Dadara Baby versions - they're collector's items now.
 
 A bit of trivia (considering The Grid beta) is that there were some white HousePods used in a video for UK band "The Grid".
 
