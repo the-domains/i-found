@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I Found]]></title>
-        <description><![CDATA[I Found]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tech's cool - up to a point!]]></title>
+        <description><![CDATA[Tech's cool - up to a point!]]></description>
+        <link>https://thegrid.ai/i-found/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 23:01:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 02:17:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-found/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gadgets.  I like gadgets.  I found lots of them when I went looking.  I probably could've found more but I was afraid to go into the attic! Here's a selection.]]></title>
             <description><![CDATA[<article><h1>Gadgets.  I like gadgets.  I found lots of them when I went looking.  I probably could've found more but I was afraid to go into the attic! Here's a selection.</h1><p>I did have 2 Apple TVs (1st and 2nd Gen) but they're really not necessary anymore with all the streaming available on all the other platforms now.  I have a chromecast for the bedroom, but that's just to use an idle 24" monitor.  Sometimes there are football matches on at 3-4am - with the chromecast I can watch them in bed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97c889f2a9a3b3d55a176f62f121f2f4feea2201.jpg"></article>]]></description>
-            <link>undefinedgadgets-i-like-gadgets-i-found-lots-of-them-when-i-went/index.html</link>
+            <link>https://thegrid.ai/i-found/gadgets-i-like-gadgets-i-found-lots-of-them-when-i-went/index.html</link>
             <guid isPermaLink="false">3479b6f9-98b2-4c75-bf2a-d24d2e4903bb</guid>
-            <pubDate>Sun, 06 Mar 2016 23:01:02 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 02:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
