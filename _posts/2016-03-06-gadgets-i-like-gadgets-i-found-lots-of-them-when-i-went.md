@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T07:07:54.062Z'
-dateModified: '2016-03-07T07:07:29.680Z'
+description: "I did have 2 Apple TVs (1st and 2nd Gen) but they're really not necessary anymore with all the streaming available on all the other platforms now. \_I have a chromecast for the bedroom, but that's just to use an idle 24\" monitor. \_Sometimes there are football matches on at 3-4am - with the chromecast I can watch them in bed."
+datePublished: '2016-03-11T02:42:58.631Z'
+dateModified: '2016-03-11T02:42:46.089Z'
 title: Smart Home
 author: []
 sourcePath: _posts/2016-03-06-gadgets-i-like-gadgets-i-found-lots-of-them-when-i-went.md
